@@ -10,7 +10,8 @@
 -- );
 
 INSERT INTO series (title, author_id, subgenre_id) VALUES
-('Outrageous Fun', 1, 1);
+('Outrageous Fun', 1, 1),
+('Smoke The Meats', 1, 1);
 
 
 
