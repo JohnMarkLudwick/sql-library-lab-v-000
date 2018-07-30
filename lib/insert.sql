@@ -9,7 +9,7 @@
 --   subgenre_id INTEGER
 -- );
 
-INSERT 
+INSERT INTO series ()
 
 
 
