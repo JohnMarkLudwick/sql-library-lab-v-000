@@ -9,7 +9,9 @@
 --   subgenre_id INTEGER
 -- );
 
-INSERT INTO series (title, author_id, subgenre_id)
+INSERT INTO series (title, author_id, subgenre_id) VALUES
+
+
 
 
 
